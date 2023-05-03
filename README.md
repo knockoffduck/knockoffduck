@@ -1,6 +1,6 @@
 
-<img align="center" src="https://raw.githubusercontent.com/knockoffduck/Repository-Statistics/master/generated/overview.svg" alt="Language Statistics"/>
-<img align="center" src="https://raw.githubusercontent.com/knockoffduck/Repository-Statistics/master/generated/languages.svg" alt="Language Statistics"/>
+<img align="center" src="https://raw.githubusercontent.com/knockoffduck/Repository-Statistics/master/generated/overview.svg#gh-dark-mode-only" alt="Language Statistics"/>
+<img align="center" src="https://raw.githubusercontent.com/knockoffduck/Repository-Statistics/master/generated/languages.svg#gh-dark-mode-only" alt="Language Statistics"/>
 
 
 <!--
