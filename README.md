@@ -1,5 +1,6 @@
-![](https://raw.githubusercontent.com/knockoffduck/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/knockoffduck/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+<img align="center" src="https://raw.githubusercontent.com/knockoffduck/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Language Statistics"/>
+<img align="center" src="https://raw.githubusercontent.com/knockoffduck/github-stats/master/generated/languages.svg#gh-dark-mode-only)" alt="Language Statistics"/>
 
 
 <!--
